@@ -14,6 +14,11 @@ I'm **Falak Munir Ahmed Tanga**, a Computer Science Engineering student speciali
 
 This portfolio is a reflection of my learning journey — combining data science, machine learning, analytics, web design, and creativity in one interactive experience.
 
+## ✨ Live website 
+https://falakmunir7-code.github.io/falak-portfolio/
+
+
+
 ## ✨ About the Portfolio
 
 Designed to be more than just a personal website, this portfolio features a modern, immersive interface with interactive elements and a video background.
